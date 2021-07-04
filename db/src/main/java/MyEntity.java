@@ -29,3 +29,4 @@ public class MyEntity {
         return new StringBuilder().append("MyEntity{").append("id=").append(id).append(", name='").append(name).append('\'').append('}').toString();
     }
 }
+
